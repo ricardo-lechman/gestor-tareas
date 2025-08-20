@@ -31,6 +31,13 @@ Cada tarea tiene un botón ❌ para borrarla.
 4. Ejecutar la app:
    npm start
 
+---
+
+## 🚀 Uso
+Escribir una tarea, nota o producto en la caja de texto.
+Presionar el botón Agregar.
+La nueva entrada aparece en la lista.
+Se pueden ir sumando varias y organizar todo.
 
 
 
