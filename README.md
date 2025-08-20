@@ -39,5 +39,8 @@ Presionar el botón Agregar.
 La nueva entrada aparece en la lista.
 Se pueden ir sumando varias y organizar todo.
 
+<img width="782" height="589" alt="Screenshot" src="https://github.com/user-attachments/assets/29714ca1-4125-4dd7-911e-7446fbb39dc6" />
+
+
 
 
