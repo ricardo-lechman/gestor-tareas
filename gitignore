@@ -1,0 +1,30 @@
+# Dependencias de Node
+node_modules/
+
+# Archivos de distribución / compilación
+dist/
+out/
+release/
+
+# Archivos de log
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos grandes de Electron que no queremos subir
+*.exe
+*.dll
+*.pdb
+
+# Archivos de cache
+*.tmp
+*.cache
+
+# Archivos de entorno
+.env

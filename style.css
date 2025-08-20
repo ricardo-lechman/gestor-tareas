@@ -1,0 +1,9 @@
+body {
+    background-image: url('fondo aplicaicon.png');
+    background-size: cover;      /* Ajusta la imagen a toda la pantalla */
+    background-position: center; /* Centrada */
+    background-attachment: fixed;/* Hace que se quede fija al hacer scroll */
+    font-family: Arial, sans-serif;
+    color: black; /* Para que el texto resalte */
+  }
+  
